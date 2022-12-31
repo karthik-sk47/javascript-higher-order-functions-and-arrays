@@ -29,9 +29,6 @@ This file contains sample of array of 50 objects with keys - id, car_make, car_m
 {"id":3,"car_make":"Kia","car_model":"Spectra","car_model_year":2009,"price":57654,"is_available":true},
 {"id":4,"car_make":"GMC","car_model":"Suburban 2500","car_model_year":1999,"price":74185,"is_available":true},
 {"id":5,"car_make":"Ford","car_model":"Transit Connect","car_model_year":2010,"price":60921,"is_available":false}
-.
-.
-.
 ]
 ```
 
